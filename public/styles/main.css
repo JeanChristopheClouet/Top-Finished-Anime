@@ -1,0 +1,51 @@
+body{
+    background-color: #17153B;
+
+}
+.btn.btn-primary { display: inline-block }
+
+.card--flex .btn {
+    display: flex;
+ }
+
+h1 {
+    text-align: center;
+    color:#C8ACD6;
+} 
+
+img{
+    border-radius: 10%;
+}
+#anime-container, form{
+    background-color: #2E236C;
+}
+
+form{
+    background-color: #17153B;
+
+}
+
+#footer-container {
+    background-color: #17153B;
+    color:#C8ACD6 !important;
+
+}
+p, a{
+    color:#433D8B !important;
+}
+
+select{
+    background-color: #C8ACD6;
+}
+
+h1, h2{
+    color:#C8ACD6 !important;
+}
+#anime-kaado {
+    transition: border 2s;
+}
+
+#anime-kaado:hover {
+    border: 10px solid black; /* Adding a solid style and color */
+}
+
