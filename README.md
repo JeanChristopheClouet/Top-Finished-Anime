@@ -1,5 +1,4 @@
 
-
 ---
 
 # Project Name
@@ -36,11 +35,9 @@ node index.js
 
 Go to your browser and navigate to:
 
-```
-http://localhost:3000
-```
+[http://localhost:3000](http://localhost:3000)
 
-And voila! You're all set.
+And voila! You're all set. 🎉
 
 ---
 
